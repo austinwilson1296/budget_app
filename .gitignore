@@ -1,5 +1,14 @@
-.json
-.csv
-.env
-.venv
-.__pycache__
+# Python-related
+*.py[cod]
+__pycache__/
+*.env
+.venv/
+
+# Environment and config files
+*.json
+*.csv
+
+# IDE/Editor-related
+*.vscode/
+*.idea/
+
