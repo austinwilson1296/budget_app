@@ -1,0 +1,37 @@
+[
+    {
+        "month": "February",
+        "categories": {
+            "Salary/Wages": 3526.7599999999993,
+            "Side Hustles": 1.1,
+            "Mortgage/Rent": -2252.5,
+            "Utilities (Electricity, Water, Gas, Internet)": -424.90999999999997,
+            "Insurance (Health, Life, Car, Home)": -43.94,
+            "Debt Payments (Student Loans, Credit Cards)": -302.31,
+            "Subscriptions (Streaming Services, Gym Memberships)": -102.94999999999999,
+            "Groceries": -764.53,
+            "Dining Out": -453.15,
+            "Gas Station/Vending Machine": -129.61,
+            "Coffee Shops": -102.01,
+            "Transportation (Gas, Maintenance, Public Transport)": -114.49000000000001,
+            "Personal Care (Haircuts, Skincare)": -11.379999999999999,
+            "Household Supplies": -24.29,
+            "Medical Expenses (Co-pays, Prescriptions)": 0.0,
+            "Emergency Fund": 0.0,
+            "Retirement (401(k), IRA)": 0.0,
+            "Investment Accounts": 0.0,
+            "College Fund (for kids or personal)": 0.0,
+            "Big Purchases (House, Car, Vacation)": 0.0,
+            "Entertainment (Movies, Concerts, Hobbies)": -112.64000000000001,
+            "Travel": 0.0,
+            "Clothing": -49.06,
+            "Gifts & Donations": 0.0,
+            "Fitness & Health (Yoga Classes, Sports)": 0.0,
+            "Pet Care (Food, Vet Visits)": -69.53,
+            "Childcare/Education": -603.5200000000001,
+            "Home Improvement": 0.0,
+            "Professional Development (Courses, Certifications)": 0.0,
+            "Choose a Category": 104.96
+        }
+    }
+]

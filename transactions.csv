@@ -1,0 +1,104 @@
+TranType,Amount,Category,Description,Date
+Expense,11.99,Coffee Shops,starbucks,2025-02-11 00:00:00
+Expense,50.0,"Debt Payments (Student Loans, Credit Cards)",SPARTANBURG REGIONAL ,2025-02-03 00:00:00
+Expense,18.29,Dining Out,CULVERS ,2025-02-03 00:00:00
+Expense,5.33,Dining Out,MCDONALD'S,2025-02-03 00:00:00
+Expense,5.93,"Personal Care (Haircuts, Skincare)",WALGREENS,2025-02-03 00:00:00
+Expense,31.62,Dining Out,PAPA JOHNS,2025-02-03 00:00:00
+Expense,14.02,Dining Out,RHINO MARKET,2025-02-03 00:00:00
+Expense,69.53,"Pet Care (Food, Vet Visits)",Pet Supplies Plus,2025-02-03 00:00:00
+Expense,167.95,Groceries,ALDI,2025-02-03 00:00:00
+Expense,45.5,"Transportation (Gas, Maintenance, Public Transport)",QT,2025-02-03 00:00:00
+Expense,5.45,"Personal Care (Haircuts, Skincare)",WALGREENS,2025-02-03 00:00:00
+Expense,15.0,Coffee Shops,STARBUCKS,2025-02-04 00:00:00
+Income,1869.09,Salary/Wages,BROAD RIVER RETAIL,2025-02-05 00:00:00
+Expense,11.88,Coffee Shops,STARBUCKS,2025-02-05 00:00:00
+Expense,16.55,Dining Out,CULVERS,2025-02-05 00:00:00
+Expense,11.47,Dining Out,MCDONALDS,2025-02-05 00:00:00
+Expense,28.84,Groceries,WALMART,2025-02-05 00:00:00
+Expense,4.56,Groceries,WALMART,2025-02-05 00:00:00
+Income,1.1,Side Hustles,BOA CASHBACK,2025-02-06 00:00:00
+Expense,2.39,Coffee Shops,STARBUCKS,2025-02-06 00:00:00
+Expense,20.0,Coffee Shops,STARBUCKS,2025-02-06 00:00:00
+Expense,18.14,"Subscriptions (Streaming Services, Gym Memberships)",SPOTIFY,2025-02-06 00:00:00
+Expense,20.69,Dining Out,SUBWAY,2025-02-06 00:00:00
+Expense,10.0,Coffee Shops,STARBUCKS,2025-02-07 00:00:00
+Expense,79.25,Groceries,TARGET,2025-02-07 00:00:00
+Expense,104.96,Groceries,SAMSCLUB,2025-02-10 00:00:00
+Expense,5.11,Coffee Shops,STARBUCKS,2025-02-10 00:00:00
+Expense,100.71,"Utilities (Electricity, Water, Gas, Internet)",DUKE ENERGY,2025-02-10 00:00:00
+Expense,30.02,"Transportation (Gas, Maintenance, Public Transport)",CIRCLE K,2025-02-10 00:00:00
+Expense,11.66,Dining Out,MCDONALDS,2025-02-10 00:00:00
+Expense,6.99,Coffee Shops,7 BREW,2025-02-10 00:00:00
+Expense,29.35,"Transportation (Gas, Maintenance, Public Transport)",QT,2025-02-10 00:00:00
+Expense,11.77,Dining Out,MCDONALDS,2025-02-10 00:00:00
+Expense,25.36,Dining Out,MCDONALDS,2025-02-10 00:00:00
+Expense,18.83,Groceries,TARGET,2025-02-10 00:00:00
+Expense,24.29,Household Supplies,DOLLAR TREE,2025-02-10 00:00:00
+Expense,80.7,Groceries,WALMART,2025-02-10 00:00:00
+Expense,37.17,Groceries,TARGET,2025-02-10 00:00:00
+Expense,66.36,"Debt Payments (Student Loans, Credit Cards)",DEPT EDUCATION,2025-02-10 00:00:00
+Expense,3.0,"Subscriptions (Streaming Services, Gym Memberships)",ACORNS,2025-02-11 00:00:00
+Expense,4.98,Gas Station/Vending Machine,QT,2025-02-11 00:00:00
+Expense,6.27,Coffee Shops,STARBUCKS,2025-02-11 00:00:00
+Expense,26.82,Dining Out,TACO BELL,2025-02-11 00:00:00
+Expense,7.09,Coffee Shops,STARBUCKS,2025-02-11 00:00:00
+Expense,40.04,"Entertainment (Movies, Concerts, Hobbies)",AMAZON,2025-02-11 00:00:00
+Expense,7.89,Dining Out,MCDONALDS,2025-02-11 00:00:00
+Expense,11.84,"Entertainment (Movies, Concerts, Hobbies)",AMAZON,2025-02-11 00:00:00
+Expense,2.13,"Subscriptions (Streaming Services, Gym Memberships)",APPLE,2025-02-11 00:00:00
+Expense,185.95,"Debt Payments (Student Loans, Credit Cards)",DEPT EDUCATION,2025-02-11 00:00:00
+Expense,6.31,Gas Station/Vending Machine,QT,2025-02-12 00:00:00
+Expense,12.97,Dining Out,PAPA JOHNS,2025-02-12 00:00:00
+Expense,7.94,Dining Out,MCDONALDS,2025-02-12 00:00:00
+Expense,152.22,Groceries,HARRIS TEETER,2025-02-12 00:00:00
+Expense,28.63,"Entertainment (Movies, Concerts, Hobbies)",AMAZON,2025-02-12 00:00:00
+Expense,2252.5,Mortgage/Rent,RENT,2025-02-04 00:00:00
+Expense,270.0,Childcare/Education,BEANSPROUT,2025-02-04 00:00:00
+Income,529.81,Salary/Wages,WALGREENS,2025-02-05 00:00:00
+Expense,270.0,Childcare/Education,BEANSPROUTS,2025-02-11 00:00:00
+Expense,43.94,"Insurance (Health, Life, Car, Home)",LINCOLN NATIONAL,2025-02-12 00:00:00
+Expense,15.96,Gas Station/Vending Machine,QT,2025-02-03 00:00:00
+Expense,13.44,Gas Station/Vending Machine,QT,2025-02-03 00:00:00
+Expense,10.99,Dining Out,MCDONALDS,2025-02-03 00:00:00
+Expense,49.06,Clothing,KID TO KID,2025-02-03 00:00:00
+Expense,26.15,"Subscriptions (Streaming Services, Gym Memberships)",DIGITAL OCEAN,2025-02-03 00:00:00
+Expense,10.18,Gas Station/Vending Machine,QT,2025-02-03 00:00:00
+Expense,15.46,Dining Out,THE UNION,2025-02-03 00:00:00
+Expense,40.17,Dining Out,TAVERN ON THE TRACKS,2025-02-03 00:00:00
+Expense,5.29,Coffee Shops,DUNKIN,2025-02-03 00:00:00
+Expense,16.15,Dining Out,RHINO MARKET,2025-02-03 00:00:00
+Expense,7.58,Dining Out,RHINO MARKET,2025-02-03 00:00:00
+Expense,324.2,"Utilities (Electricity, Water, Gas, Internet)",PIEDMONT NATURAL GAS,2025-02-04 00:00:00
+Expense,29.99,"Subscriptions (Streaming Services, Gym Memberships)",CODE ACADEMY,2025-02-04 00:00:00
+Expense,25.41,Groceries,TARGET,2025-02-04 00:00:00
+Expense,9.39,Gas Station/Vending Machine,GATE,2025-02-04 00:00:00
+Income,700.0,Salary/Wages,BROAD RIVER RETAIL,2025-02-05 00:00:00
+Expense,10.18,Gas Station/Vending Machine,QT,2025-02-05 00:00:00
+Expense,5.36,Childcare/Education,DOLLAR TREE,2025-02-05 00:00:00
+Expense,14.81,Dining Out,MCDONALDS,2025-02-05 00:00:00
+Income,196.41,Salary/Wages,HARRIS TEETER,2025-02-06 00:00:00
+Expense,10.71,"Entertainment (Movies, Concerts, Hobbies)",KINDLE,2025-02-06 00:00:00
+Expense,10.71,"Entertainment (Movies, Concerts, Hobbies)",KINDLE,2025-02-06 00:00:00
+Expense,13.59,Groceries,HARRIS TEETER,2025-02-06 00:00:00
+Expense,15.76,Gas Station/Vending Machine,QT,2025-02-07 00:00:00
+Expense,10.71,"Entertainment (Movies, Concerts, Hobbies)",KINDLE,2025-02-07 00:00:00
+Expense,7.59,Gas Station/Vending Machine,QT,2025-02-10 00:00:00
+Expense,8.54,"Subscriptions (Streaming Services, Gym Memberships)",CRUNCHYROLL,2025-02-10 00:00:00
+Expense,7.09,Gas Station/Vending Machine,QT,2025-02-10 00:00:00
+Expense,86.55,Dining Out,KPOT,2025-02-10 00:00:00
+Expense,14.53,Gas Station/Vending Machine,QT,2025-02-10 00:00:00
+Expense,10.65,Dining Out,COOK OUT,2025-02-10 00:00:00
+Expense,3.91,Gas Station/Vending Machine,MARKET,2025-02-11 00:00:00
+Expense,9.62,"Transportation (Gas, Maintenance, Public Transport)",QUICK PASS,2025-02-11 00:00:00
+Expense,15.0,"Subscriptions (Streaming Services, Gym Memberships)",MICROSOFT,2025-02-11 00:00:00
+Expense,6.62,Childcare/Education,SKYZONE,2025-02-11 00:00:00
+Expense,4.14,Childcare/Education,SKYZONE,2025-02-12 00:00:00
+Expense,32.06,Childcare/Education,SKYZONE,2025-02-12 00:00:00
+Expense,10.34,Childcare/Education,SKYZONE,2025-02-12 00:00:00
+Expense,5.0,Childcare/Education,SKYZONE,2025-02-12 00:00:00
+Expense,28.41,Dining Out,CHIPOTLE,2025-02-12 00:00:00
+Income,231.45,Salary/Wages,HARRIS TEETER,2025-02-12 00:00:00
+Expense,10.29,Gas Station/Vending Machine,CIRCLE K,2025-02-12 00:00:00
+Expense,10.0,Groceries,HARRIS TEETER,2025-02-12 00:00:00
+Expense,41.05,Groceries,HARRIS TEETER,2025-02-12 00:00:00
